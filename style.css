@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Oswald:wght@200;300;400&display=swap");
+
+/* background-image: url("https://unsplash.it/1300/600?random"); */
+
+body {
+  background-color: #fff;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+.header {
+  color: #2e5339;
+  font-family: "Oswald", sans-serif;
+  border-bottom: 7px solid #2e5339;
+  width: 20%;
+  padding: 3px;
+  margin: 20px auto;
+}
+
+.title {
+  font-size: 50px;
+  padding: 0px;
+  margin: 5px;
+}
+
+/* p {
+  font-size: 25px;
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+} */
+
+.text {
+  font-size: 20px;
+  color: #02182b;
+  font-weight: 400;
+}
+
+.text-first {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(50, 50, 50, 0.2)),
+    url("images/unnamed.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 150px;
+  width: 150px;
+  border-radius: 75px;
+  margin: 15px auto;
+}
+
+.text-second {
+  font-weight: bold;
+  font-size: 25px;
+  width: 650px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+/* .text-third {
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+
+.text-socialmedia {
+  margin-bottom: 20px;
+  font-weight: bolder;
+} */
+
+/* .link-btn {
+  text-decoration: none;
+  background-color: #495f41;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.link-btn:hover {
+  background-color: #2e5339;
+} */
+
+ul {
+  padding: 0px;
+}
+
+li {
+  display: inline-block;
+  text-decoration: none;
+}
+
+i {
+  color: #2e5339;
+  font-size: 50px;
+  padding: 10px;
+}
+
+i:hover {
+  color: #495f41;
+}
